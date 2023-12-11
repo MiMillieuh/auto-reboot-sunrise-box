@@ -1,5 +1,9 @@
 # auto-reboot-sunrise-box
-A simple puppeter program to reboot Sunrise's Connect Box
+A simple puppeter program to reboot [Sunrise's](https://www.sunrise.ch) Connect Box
+
+| Boxes  | Results |
+| ------------- | ------------- |
+| Sunrise : Connect Box 2  | Succes  |
 
 ## How to use ? :
 
