@@ -1,6 +1,8 @@
 # auto-reboot-sunrise-box
 A simple puppeter program to reboot [Sunrise's](https://www.sunrise.ch) Connect Box
 
+# /!\ I'm not affiliated with Sunrise or any ISP in any ways !
+
 | Boxes  | Results |
 | ------------- | ------------- |
 | Sunrise : Connect Box 2  | Succes  |
